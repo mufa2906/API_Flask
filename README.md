@@ -6,7 +6,7 @@ Source Learning(SL):
   - link : https://www.youtube.com/watch?v=qbLc5a9jdXo
  
 Urutan Kerja :
-  - Membuat Venv dengan cara : python -m venv venv
+  - Membuat Venv dengan command : "python -m venv venv"
   - Menginstall flask dan flask_sqlalchemy
   - Menginstall python-dotenv untuk mempermudah env flask
   - Membuat file .env sehingga dapat menjalankan flask langsung menggunakan terminal dengan command "flask run"
